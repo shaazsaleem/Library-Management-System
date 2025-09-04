@@ -24,6 +24,3 @@ Features:
 - Book Returning: Enable users to return borrowed books.
 - Display Borrowed Books: View the list of books borrowed by a specific user.
 - Search for Books: Search for books in the library's catalog.
-
-Contact:
-Any questions, feel free to contact the author at shaazsaleem@ucmerced.edu
