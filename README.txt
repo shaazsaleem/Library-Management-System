@@ -9,8 +9,8 @@ It allows librarians to add, remove, and search for books,
 as well as register new users and manage book borrowing and returning.
 
 Installation:
-1. Download the zip file containing the whole project to computer
-2. Open the zip file using some sort of IDE
+1. Download all files containing the whole project to computer
+2. Open the files using your preferred environment
 3. Run the code in the LibraryManagementSystem.java file
 4. Follow the instructions in the console
 
@@ -26,4 +26,4 @@ Features:
 - Search for Books: Search for books in the library's catalog.
 
 Contact:
-Any questions feel free to contact the author at shaazsaleem@my.smccd.edu
+Any questions, feel free to contact the author at shaazsaleem@ucmerced.edu
